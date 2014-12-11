@@ -1,0 +1,13 @@
+#dropmenu, #dropmenu ul {margin:0; padding:0 0 0 25px; list-style-type:none; list-style-position:outside; position:relative; line-height:1.7em; z-index:100000; width:100%;  }
+#dropmenu a {display:block; padding:0 18px;  color:#000;  text-decoration:none; z-index:100000; }
+#dropmenu a:hover {color:#FFF; background-color:#87b47b;z-index:100000; }
+#dropmenu li { height:100%;float:left; position:relative; line-height:24px;z-index:100000; font-size:14px;color:#000;text-transform:uppercase;}
+#dropmenu ul li { height:100%;float:left; position:relative; line-height:19px; background-color:#FFF;z-index:100000;  }
+#dropmenu ul {position:absolute;margin:17px 0 0 0px; display:none; width:122px; top:0.5em; left:-1px; border-bottom:solid 2px #50923e;z-index:100000; }
+#dropmenu ul a { border:solid 2px #50923e; border-bottom:0; background:#187000; color:#FFF;z-index:100000; }
+#dropmenu li ul {width:163px;z-index:100000; }
+#dropmenu li ul a {width:10em; height:100%; float:left; z-index:100000; }
+#dropmenu ul ul {top:auto;z-index:100000; }
+#dropmenu li ul ul {left:160px; margin:0 0 0 0px;top:0;z-index:100000; }
+#dropmenu .current_page_item a{color:#87b47b; text-decoration:none; color:#FFF;z-index:100000; }
+	

@@ -1,0 +1,117 @@
+	    /*
+     * Default View Styling
+     */
+     	
+		div.default_product_display div.textcol{
+			margin-left: 106px !important;
+						min-height: 96px;
+			_height: 96px;
+		}
+			
+		div.default_product_display  div.textcol div.imagecol{
+			position:absolute;
+			top:0px;
+			left: 0px;
+			margin-left: -106px !important;
+		}
+		
+		div.default_product_display  div.textcol div.imagecol a img {
+			width: 96px;
+			height: 96px;
+		}
+		
+		div.default_product_display div.item_no_image  {
+			width: 94px;
+			height: 94px;
+		}
+		div.default_product_display div.item_no_image a  {
+			width: 94px;
+		}
+
+
+    /*
+     * Grid View Styling
+     */
+		div.product_grid_display div.item_no_image  {
+			width: 94px;
+			height: 94px;
+		}
+		div.product_grid_display div.item_no_image a  {
+			width: 94px;
+		}
+		
+		
+		
+    /*
+     * Single View Styling
+     */
+     
+		div.single_product_display div.item_no_image  {
+			width: 126px;
+			height: 126px;
+		}
+		div.single_product_display div.item_no_image a  {
+			width: 126px;
+		}
+		
+		div.single_product_display div.textcol{
+			margin-left: 138px !important;
+			min-height: 128px;
+			_height: 128px;
+		}
+			
+			
+		div.single_product_display  div.textcol div.imagecol{
+			position:absolute;
+			top:0px;
+			left: 0px;
+			margin-left: -138px !important;
+		}
+		
+		div.single_product_display  div.textcol div.imagecol a img {
+			width: 128px;
+			height: 128px;
+		}
+      
+        div.default_product_display.product_view_72 div.textcol{
+            min-height: 130px !important;
+            _height: 130px !important;
+      }
+      div.default_product_display.product_view_72 div.textcol{
+            margin-left: 130px !important;
+      }
+      div.default_product_display.product_view_72  div.textcol div.imagecol{
+            position:absolute;
+            top:0px;
+            left: 0px;
+            margin-left: -130px !important;
+      }
+      div.default_product_display.product_view_72  div.textcol div.imagecol a img{
+            width: 120px;
+            height: 120px;
+      }
+    div.default_product_display.product_view_73 div.textcol{
+            min-height: 110px !important;
+            _height: 110px !important;
+      }
+      div.default_product_display.product_view_73 div.textcol{
+            margin-left: 130px !important;
+      }
+      div.default_product_display.product_view_73  div.textcol div.imagecol{
+            position:absolute;
+            top:0px;
+            left: 0px;
+            margin-left: -130px !important;
+      }
+      div.default_product_display.product_view_73  div.textcol div.imagecol a img{
+            width: 120px;
+            height: 100px;
+      }
+    div#categorydisplay{
+    display: block;
+    }
+    
+    div#branddisplay{
+    display: none;
+    }
+    

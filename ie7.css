@@ -1,0 +1,13 @@
+.slideshowlas{background:url("images/overlay.png") repeat scroll 0 0 transparent;
+
+height:201px;
+
+
+
+position:absolute;
+
+top:-3px;
+
+width:99px;
+
+z-index:100000;}
